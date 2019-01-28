@@ -1,0 +1,134 @@
+
+
+MyCV.html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="John Lafiotis">
+    <meta name="description" content="This is my CV page">
+    <title>My personal webpage</title>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>
+                    <img src="10309755_617137185041610_3080892946201376068_n" alt="John Lafiotis">
+
+            </td>
+            <td>
+                    <h1>John Lafiotis</h1>
+    <p><em>Junior-Entry level selftaught full stack Developer</em></p>
+    <p>Wanna be a full stack developer, self taught myself coding with youtube and online resources </p>
+
+            </td>
+        </tr>
+    </table>
+
+    <ul>
+            <hr>
+            <h2>Books and Teaching</h2>
+            <p>My education comes mostly from Udemy courses and sitting down practising coding on my own. In december i started learning and i am really glad i did . </p>
+        <li><a href="https://www.codecademy.com/">CodeCademy</a>  was my starting point where i first started learning Javascript</li>
+        <li><a href="https://www.udemy.com">Udemy</a> The complete full stack web developement by Kalob Taulien  was my next stop where I learned HTML CSS and some more JS as well as PHP,Jquery,MySQL,ajax etc.</li>
+        <li> Now im on <a href="https://www.udemy.com/">Udemy</a>, on Web Development bootcamp by Angela Yu which i find a fantastic teacher</li>
+    </ul>
+    <hr>
+    <h3>My Hobbies</h3>
+    <ol type="I">
+        <li>Learning foreign languages</li>
+        <li>Working out</li>
+        <li>Music allooooot of it</li>
+        <li>Playing games from time to time</li>
+        <li>Mobile Photohraphy</li>
+    </ol>
+    <hr>
+    <table cellspacing="5">
+        <thead>
+            <th>Date from/date to</th>
+            <th>Work</th>
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>2012-2017</td>
+                <td>I am studying agriculture officially so i worked unofficially as a delivery boy or a waiter in cafes or teavers in my hometown</td>
+            </tr>
+            <tr>
+                <td>2018 december</td>
+                <td>started learning about full stack web developement</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <hr>
+    <table>
+        <tr>
+            <td>
+                    <table cellspacing="20">
+                            <thead>
+
+
+                              <th>skillz</th>
+                                    <th>meter</th>
+                                </thead>
+                            <tr>
+                                <td>HTML</td>
+                                <td>&#11088;&#11088;</td>
+                            </tr>
+                            <tr>
+                                <td>CSS</td>
+                                <td>&#11088;&#11088;</td>
+
+                            </tr>
+                            <tr>
+                                <td>JS</td>
+                                <td>&#11088;&#11088;</td>
+                        </tr>
+                        <tr>
+                            <td>PHP</td>
+                            <td>&#11088;</td>
+                        </tr>
+                        <tr>
+                            <td>MySQL</td>
+                            <td>&#11088;</td>
+                        </tr>
+
+                        <table cellspacing="20">
+                                          <hr>
+                                <thead>
+
+
+
+                                        <th>Wishlist or future targets</th>
+
+                                    </thead>
+                                <tr>
+                                    <td>Ios developement with Swift,Objective C</td>
+
+                                </tr>
+
+                                <tr>
+                                   <td>become proficient in more than ten foreign languages</td>
+                                </tr>
+
+                            </table>
+
+
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+    <hr>
+    <a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download Cheatsheet</a>
+    <a href="contact-me.html">Contact Me</a>
+</body>
+
+</html>
